@@ -66,7 +66,7 @@
           {% endif %}
           <div class="header-info">
             <h1>{{ name }}</h1>
-            {% if label %}<h2 class="header-label">{{ label }}</h2>{% endif %}
+            {% if title %}<h2 class="header-label">{{ title }}</h2>{% endif %}
             {% if contact.email or contact.phone or contact.location %}
               <address>
                 <ul class="inline-list flex-responsive">
@@ -230,10 +230,10 @@
                   </h3>
                   {% if edu.location %}<p class="section-label">{{ edu.location }}</p>{% endif %}
                   {% if edu.degree %}
-                    <h4>Degrees</h4>
-                    <ul>
+                    <h4>Degree</h4>
+                    <p>
                       {% for deg in edu.degree %}<li>{{ deg }}</li>{% endfor %}
-                    </ul>
+                    </p>
                   {% endif %}
   
 
