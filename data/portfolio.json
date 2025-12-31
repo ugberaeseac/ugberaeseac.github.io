@@ -1,0 +1,257 @@
+{
+    "name": "Charles Ugberaese",
+    "title": "Software Engineer",
+    "profile_pic": "images/profile.jpg",
+    "contact": {
+        "email": "ugberaeseac@gmail.com",
+        "location": "Lagos, Nigeria"
+    },
+    "bio": "Backend-focused Full-Stack Software Engineer and AI Engineer building reliable APIs, scalable digital solutions, and intelligent systems.",
+    "social_links": [
+        {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/ugberaeseac/",
+            "img_path": "images/linkedin.svg"
+        },
+        {
+            "label": "Twitter",
+            "url": "https://x.com/ugberaeseac",
+            "img_path": "images/twitter-x.svg"
+        },
+        {
+            "label": "GitHub",
+            "url": "https://github.com/ugberaeseac",
+            "img_path": "images/github.svg"
+        }
+    ],
+    "work_history": [
+        {
+            "company": "Freelance",
+            "position": "Software Engineer/Project Developer",
+            "url": "",
+            "start_date": "April 2024",
+            "end_date": "Present",
+            "summary": "",
+            "highlights": [
+                "Built a full CRUD blog platform with user authentication and Cloudinary image uploads.",
+                "Developed a backend with RBAC, order management, and advanced product filtering.",
+                "Created a data-driven API tool using LLMs for smarter soil and fertilizer insights.",
+                "Engineered a farm marketplace API connecting farmers and buyers with role-based access."
+            ]
+        },
+        {
+            "company": "Jardani (E-commerce Startup)",
+            "position": "Backend Developer",
+            "url": "",
+            "start_date": "February 2025",
+            "end_date": "May 2025",
+            "summary": "",
+            "highlights": [
+                "Developed and maintained the backend of Jardani, a marketplace MVP for cross-border trade in Africa.",
+                "Designed scalable backend architecture and optimized database schemas.",
+                "Built Django REST APIs for vendor onboarding, product management, and order processing.",
+                "Integrated PostgreSQL and Redis to enhance performance, caching, and reliability.",
+                "Improved system performance using database indexing and Redis caching."
+            ]
+        },
+        {
+            "company": "HNG Tech",
+            "position": "Backend Developer Intern",
+            "url": "https://hng.tech/",
+            "start_date": "June 2024",
+            "end_date": "August 2024",
+            "summary": "",
+            "highlights": [
+                "Built scalable FastAPI and OpenAPI services, improving response efficiency by 15%.",
+                "Contributed to a reusable FastAPI boilerplate that sped up developer onboarding by 30%.",
+                "Implemented secure endpoints for authentication, user management, and system settings (100+ active users).",
+                "Applied Agile practices, participated in code reviews, and wrote unit tests for maintainable, high-quality code."
+            ]
+
+        },
+        {
+            "company": "Freelance",
+            "position": "C Programming Language Tutor/Mentor",
+            "url": "",
+            "start_date": "April 2024",
+            "end_date": "July 2024",
+            "summary": "",
+            "highlights": [
+                "Delivered customized C programming lessons to 10+ beginners, covering core programming concepts.",
+                "Designed tailored lesson plans that improved students’ coding proficiency within 6 weeks.",
+                "Achieved a 95% student satisfaction rate through hands-on, simplified teaching methods."
+            ]
+
+        }
+
+    ],
+    "software_projects": [
+        {
+            "title": "blog_app",
+            "description": "A modern full-stack Django-powered blogging platform where users can share their stories, ideas, and experiences.",
+            "tech_stack": "Django, Python, HTML/CSS, JavaScript, Bootstrap, Cloudinary, PostgreSQL, Render",
+            "url": "https://blog-app-2hkl.onrender.com/",
+            "github": "https://github.com/ugberaeseac/blog_app.git",
+            "images": [
+                {
+                    "img_path": "",
+                    "caption": ""
+                },
+                {
+                    "img_path": "",
+                    "caption": ""
+                },
+                {
+                    "img_path": "",
+                    "caption": ""
+                }
+            ]
+
+        },
+        {
+            "title": "Farmarket Backend API",
+            "description": "A backend application designed to simplify agricultural product trading by connecting farmers, vendors, and buyers",
+            "tech_stack": "Node.js, Express.js, MongoDB, JWT, Cloudinary, GitHub Actions, Render, Postman",
+            "url": "https://farm-flow-tawny.vercel.app/",
+            "github": "https://github.com/ugberaeseac/farmarketBackend.git",
+            "images": [
+                {
+                    "img_path": "",
+                    "caption": ""
+                },
+                {
+                    "img_path": "",
+                    "caption": ""
+                },
+                {
+                    "img_path": "",
+                    "caption": ""
+                }
+            ]
+
+        },
+        {
+            "title": "E-commerce Backend API",
+            "description": "An e-commerce platform, featuring product management, cart, and order handling with authentication and role-based access.",
+            "tech_stack": "Django REST Framework, PostgreSQL, JWT, GitHub Actions, Render, Swagger/Postman",
+            "url": "",
+            "github": "https://github.com/ugberaeseac/ecommerce_backend.git",
+            "images": [
+                {
+                    "img_path": "",
+                    "caption": ""
+                },
+                {
+                    "img_path": "",
+                    "caption": ""
+                },
+                {
+                    "img_path": "",
+                    "caption": ""
+                }
+            ]
+
+        },
+        {
+            "title": "iSDA Soil Client",
+            "description": "A command-line client that integrates with the iSDAsoil API to fetch soil property data (N, P, K, pH) for African locations and generate fertilizer recommendations using an LLM.",
+            "tech_stack": "Python, REST API, Groq LLM, Requests",
+            "url": "",
+            "github": "https://github.com/ugberaeseac/isda_soil_client.git",
+            "images": [
+                {
+                    "img_path": "",
+                    "caption": ""
+                },
+                {
+                    "img_path": "",
+                    "caption": ""
+                },
+                {
+                    "img_path": "",
+                    "caption": ""
+                }
+            ]
+
+        }
+    ],
+    "education": [
+        {
+            "institution": "African Leadership Experience (ALX)",
+            "location": "Nairobi, Kenya",
+            "url": "https://www.alxafrica.com/",
+            "degree": "Certificate of Completion, ALX Backend Pro-Development",
+            "grad_date": "2025"
+        },
+        {
+            "institution": "African Leadership Experience (ALX)",
+            "location": "Nairobi, Kenya",
+            "url": "https://www.alxafrica.com/",
+            "degree": "Certificate of Completion, ALX Software Engineering",
+            "grad_date": "2024"
+        },
+        {
+            "institution": "University of Benin",
+            "location": "Benin City, Nigeria",
+            "url": "https://uniben.edu/",
+            "degree": "Bachelor of Engineering, Civil Engineering",
+            "grad_date": "2020"
+        }
+    ],
+   "technical_skills": [
+        {
+            "name": "Python, Django, Django REST Framework, Flask",
+            "proficiency": "90",
+            "proficiency_label": "Expert"
+        },
+        {
+            "name": "PostgreSQL, MySQL, MongoDB, Redis, Git",
+            "proficiency": "70",
+            "proficiency_label": "Advanced"
+        },
+        {
+            "name": "Docker, Linux, CI/CD, Cloud Deployment, Systems Administration, DevOps",
+            "proficiency": "60",
+            "proficiency_label": "Intermediate"
+        },
+        {
+            "name": "JavaScript, NodeJS, expressJS",
+            "proficiency": "60",
+            "proficiency_label": "Intermediate"
+        },
+        {
+            "name": "Testing (Pytest, Integration Testing, Postman)",
+            "proficiency": "70",
+            "proficiency_label": "Advanced"
+        },
+        {
+            "name": "HTML, CSS, Data Analysis (Pandas, NumPy)",
+            "proficiency": "50",
+            "proficiency_label": "Comfortable"
+        },
+        {
+            "name": "GraphQL APIs",
+            "proficiency": "50",
+            "proficiency_label": "Comfortable"
+        }
+    ],
+    "soft_skills": ["Analytical", "Communicative", "Collaborative", "Organized"],
+    "interests": [
+        {
+            "name": "Poultry Farming",
+            "summary": "",
+            "images": [
+                {
+                    "img_path": "",
+                    "caption": ""
+                },
+                                {
+                    "img_path": "",
+                    "caption": ""
+                }   
+            ]
+        }
+    ],
+    "languages": [],
+    "references": []
+}
