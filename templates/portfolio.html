@@ -231,9 +231,11 @@
                   {% if edu.location %}<p class="section-label">{{ edu.location }}</p>{% endif %}
                   {% if edu.degree %}
                     <h4>Degree</h4>
-                    <p>
-                      {% for deg in edu.degree %}<li>{{ deg }}</li>{% endfor %}
-                    </p>
+                    <ul>
+                      {% for deg in edu.degree %}
+                        {{ deg }}
+                    {% endfor %}
+                    </ul>
                   {% endif %}
   
 
