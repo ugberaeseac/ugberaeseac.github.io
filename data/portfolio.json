@@ -180,14 +180,14 @@
             "institution": "African Leadership Experience (ALX)",
             "location": "Nairobi, Kenya",
             "url": "https://www.alxafrica.com/",
-            "degree": "Certificate of Completion, ALX Backend Pro-Development",
+            "degree": "Certificate: ALX Backend Pro-Development",
             "grad_date": "2025"
         },
         {
             "institution": "African Leadership Experience (ALX)",
             "location": "Nairobi, Kenya",
             "url": "https://www.alxafrica.com/",
-            "degree": "Certificate of Completion, ALX Software Engineering",
+            "degree": "Certificate: ALX Software Engineering",
             "grad_date": "2024"
         },
         {
@@ -200,19 +200,9 @@
     ],
    "technical_skills": [
         {
-            "name": "Python, Django, Django REST Framework, Flask",
+            "name": "Python, Django, DRF, Flask",
             "proficiency": "90",
             "proficiency_label": "Expert"
-        },
-        {
-            "name": "PostgreSQL, MySQL, MongoDB, Redis, Git",
-            "proficiency": "70",
-            "proficiency_label": "Advanced"
-        },
-        {
-            "name": "Docker, Linux, CI/CD, Cloud Deployment, Systems Administration, DevOps",
-            "proficiency": "60",
-            "proficiency_label": "Intermediate"
         },
         {
             "name": "JavaScript, NodeJS, expressJS",
@@ -220,17 +210,22 @@
             "proficiency_label": "Intermediate"
         },
         {
-            "name": "Testing (Pytest, Integration Testing, Postman)",
+            "name": "SQL, NoSQL, Redis, Git",
             "proficiency": "70",
             "proficiency_label": "Advanced"
         },
         {
-            "name": "HTML, CSS, Data Analysis (Pandas, NumPy)",
-            "proficiency": "50",
-            "proficiency_label": "Comfortable"
+            "name": "Systems Administration, DevOps, CI/CD",
+            "proficiency": "60",
+            "proficiency_label": "Intermediate"
         },
         {
-            "name": "GraphQL APIs",
+            "name": "Pytest, Integration Testing, Postman",
+            "proficiency": "70",
+            "proficiency_label": "Advanced"
+        },
+        {
+            "name": "HTML, CSS, Data Analysis",
             "proficiency": "50",
             "proficiency_label": "Comfortable"
         }
