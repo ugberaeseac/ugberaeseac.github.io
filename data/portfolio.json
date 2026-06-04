@@ -22,6 +22,11 @@
             "label": "GitHub",
             "url": "https://github.com/ugberaeseac",
             "img_path": "images/github.svg"
+        },
+        {
+            "label": "Curriculum Vitae",
+            "url": "",
+            "img_path": ""
         }
     ],
     "work_history": [
@@ -94,15 +99,15 @@
             "github": "https://github.com/ugberaeseac/blog_app.git",
             "images": [
                 {
-                    "img_path": "images/blog_1",
+                    "img_path": "images/blog_1.png",
                     "caption": ""
                 },
                 {
-                    "img_path": "images/blog_2",
+                    "img_path": "images/blog_2.png",
                     "caption": ""
                 },
                 {
-                    "img_path": "images/blog_3",
+                    "img_path": "images/blog_3.png",
                     "caption": ""
                 }
             ]
@@ -200,10 +205,10 @@
     ],
     "education": [
         {
-            "institution": "Dunin-Deshpande Innovation Centre, Queens University",
+            "institution": "DDQIC, Queens University",
             "location": "Kingston, Canada",
             "url": "https://www.queensu.ca",
-            "degree": "Certificate of Completion, Explore Entrepreneurship",
+            "degree": "Certificate of Completion, Entrepreneurship",
             "grad_date": "2026"
         },
         {
