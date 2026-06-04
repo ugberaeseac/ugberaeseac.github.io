@@ -26,6 +26,20 @@
     ],
     "work_history": [
         {
+            "company": "ThedotSchool",
+            "position": "Software Engineer",
+            "url": "https://thedotschool.my.to/",
+            "start_date": "January 2026",
+            "end_date": "Present",
+            "summary": "",
+            "highlights": [
+                "Developed and maintained a tuition payment platform for a tech school,",
+                "Integrated Paystack APIs for secure payment processing and verification.",
+                "Managed databases for student payments, transactions, and payment records.",
+                "Automated fee collection workflows to improve operational efficiency."
+            ]
+        },
+        {
             "company": "Freelance",
             "position": "Software Engineer/Project Developer",
             "url": "",
@@ -68,20 +82,6 @@
                 "Applied Agile practices, participated in code reviews, and wrote unit tests for maintainable, high-quality code."
             ]
 
-        },
-        {
-            "company": "Freelance",
-            "position": "C Programming Language Tutor/Mentor",
-            "url": "",
-            "start_date": "April 2024",
-            "end_date": "July 2024",
-            "summary": "",
-            "highlights": [
-                "Delivered customized C programming lessons to 10+ beginners, covering core programming concepts.",
-                "Designed tailored lesson plans that improved students’ coding proficiency within 6 weeks.",
-                "Achieved a 95% student satisfaction rate through hands-on, simplified teaching methods."
-            ]
-
         }
 
     ],
@@ -90,19 +90,19 @@
             "title": "blog_app",
             "description": "A modern full-stack Django-powered blogging platform where users can share their stories, ideas, and experiences.",
             "tech_stack": "Django, Python, HTML/CSS, JavaScript, Bootstrap, Cloudinary, PostgreSQL, Render",
-            "url": "https://blog-app-2hkl.onrender.com/",
+            "url": "https://blogapp.my.to/",
             "github": "https://github.com/ugberaeseac/blog_app.git",
             "images": [
                 {
-                    "img_path": "",
+                    "img_path": "images/blog_1",
                     "caption": ""
                 },
                 {
-                    "img_path": "",
+                    "img_path": "images/blog_2",
                     "caption": ""
                 },
                 {
-                    "img_path": "",
+                    "img_path": "images/blog_3",
                     "caption": ""
                 }
             ]
@@ -112,19 +112,19 @@
             "title": "Farmarket Backend API",
             "description": "A backend application designed to simplify agricultural product trading by connecting farmers, vendors, and buyers",
             "tech_stack": "Node.js, Express.js, MongoDB, JWT, Cloudinary, GitHub Actions, Render, Postman",
-            "url": "https://farm-flow-tawny.vercel.app/",
+            "url": "https://documenter.getpostman.com/view/45172601/2sB3QJNAWg",
             "github": "https://github.com/ugberaeseac/farmarketBackend.git",
             "images": [
                 {
-                    "img_path": "",
+                    "img_path": "images/farm_1.png",
                     "caption": ""
                 },
                 {
-                    "img_path": "",
+                    "img_path": "images/farm_2.png",
                     "caption": ""
                 },
                 {
-                    "img_path": "",
+                    "img_path": "images/farm_3.png",
                     "caption": ""
                 }
             ]
@@ -134,19 +134,19 @@
             "title": "E-commerce Backend API",
             "description": "An e-commerce platform, featuring product management, cart, and order handling with authentication and role-based access.",
             "tech_stack": "Django REST Framework, PostgreSQL, JWT, GitHub Actions, Render, Swagger/Postman",
-            "url": "",
+            "url": "https://ecommerce-backend-ga7o.onrender.com/api/schema/swagger-ui/",
             "github": "https://github.com/ugberaeseac/ecommerce_backend.git",
             "images": [
                 {
-                    "img_path": "",
+                    "img_path": "images/eco_1.png",
                     "caption": ""
                 },
                 {
-                    "img_path": "",
+                    "img_path": "images/eco_2.png",
                     "caption": ""
                 },
                 {
-                    "img_path": "",
+                    "img_path": "images/eco_3.png",
                     "caption": ""
                 }
             ]
@@ -156,26 +156,56 @@
             "title": "iSDA Soil Client",
             "description": "A command-line client that integrates with the iSDAsoil API to fetch soil property data (N, P, K, pH) for African locations and generate fertilizer recommendations using an LLM.",
             "tech_stack": "Python, REST API, Groq LLM, Requests",
-            "url": "",
+            "url": "https://github.com/ugberaeseac/isda_soil_client.git",
             "github": "https://github.com/ugberaeseac/isda_soil_client.git",
             "images": [
                 {
-                    "img_path": "",
+                    "img_path": "images/isda_1.png",
                     "caption": ""
                 },
                 {
-                    "img_path": "",
+                    "img_path": "images/isda_2.png",
                     "caption": ""
                 },
                 {
-                    "img_path": "",
+                    "img_path": "images/isda_3.png",
                     "caption": ""
                 }
             ]
 
         }
     ],
+    "professional_badges": [
+        {
+            "images": [
+                {
+                    "img_path": "",
+                    "caption": "Explore Entrepreneurship Badge"
+                },
+                {
+                    "img_path": "",
+                    "caption": "High Performance Teams Badge"
+                },
+                {
+                    "img_path": "",
+                    "caption": "Design Thinking Badge"
+                },
+                {
+                    "img_path": "",
+                    "caption": "Customer Discovery Badge"
+                }
+            ]
+
+        }
+    ],
     "education": [
+        {
+            "institution": "Dunin-Deshpande Innovation Centre, Queens University",
+            "location": "Kingston, Canada",
+            "url": "https://www.queensu.ca",
+            "degree": "Certificate of Completion, Explore Entrepreneurship",
+            "grad_date": "2026"
+        },
         {
             "institution": "African Leadership Experience (ALX)",
             "location": "Nairobi, Kenya",
@@ -237,11 +267,11 @@
             "summary": "",
             "images": [
                 {
-                    "img_path": "",
+                    "img_path": "images/poultry_1.jpeg",
                     "caption": ""
                 },
                                 {
-                    "img_path": "",
+                    "img_path": "images/poultry_2.jpeg",
                     "caption": ""
                 }   
             ]

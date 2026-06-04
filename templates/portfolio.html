@@ -169,6 +169,28 @@
               {% endfor %}
             </section>
           {% endif %}
+      {% if professional_badges %}
+            <section>
+              <h2 class="section-heading">Professional Badges</h2>
+              {% for badge in professional_badges %}
+                <section>
+                  {% if badge.images %}
+                    <div class="gallery main-gallery">
+                      {% for img in badge.images %}
+                        <figure>
+                          <img width="600"
+                               height="338"
+                               src="{{ img.img_path }}"
+                               alt="{{ img.caption }}">
+                          <figcaption>{{ img.caption }}</figcaption>
+                        </figure>
+                      {% endfor %}
+                    </div>
+                  {% endif %}
+                </section>
+              {% endfor %}
+            </section>
+          {% endif %}
 
           {% if volunteer_experience %}
             <section>
